@@ -33,23 +33,23 @@ Repositorio para la clase de Programación básica impartida durante el semestre
 Matrícula | T1 | T2 
 --- | --- | --- 
 7045 | ? |  
-5240 | 2 |  
+[5240](https://github.com/gerardobecerra1/prograbasica2do.) | 2 | 2 
 6189 | 2 | 2 
 7846 | 2 | 2 
 8206 | ? | 2 
 7375 |  | 2 
 3636 | 2 | 2 
-2735 | 2 | 2 
+[2735](https://github.com/JMCorreaGzz/Progra-Basica) | 2 | 2 
 4043 | 2 | 2 
 3204 | 2 | 2 
-5354 | 2 |  
+5354 | 2 | 2 
 7840 | 2 | 2 
 5104 | 2 | 2 
-4187 | 2 |  
+[4187](https://github.com/AlbertoHV23/1814187) | 2 | 2 
 6859 | ? | 2 
 7915 |  |  
 2487 |  |  
-7860 | ? | 2 
+[7860](https://github.com/Angel03paredes/Programacion-basica.git) | ? | 2 
 2411 |  |  
 7906 | 2 | 2 
 5868 | 2 | 2 
