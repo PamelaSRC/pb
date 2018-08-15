@@ -44,7 +44,7 @@ Repositorio para la clase de Programación básica impartida durante el semestre
 | [3204](https://github.com/DanielGarciaMazatan/Repositorio)        | 2  | 2  |    |
 | 5354                                                              | 2  | 2  |    |
 | [7840](https://github.com/Rome1317/Programacion-Basica)           | 2  | 2  |    |
-| 5104                                                              | 2  | 2  |    |
+| [5104](https://github.com/elangeladri28/Pb-1805104)               | 2  | 2  |    |
 | [4187](https://github.com/AlbertoHV23/1814187)                    | 2  | 2  |    |
 | [6859](https://github.com/AldoIbarra/PBRepositorio1736859.git)    |    | 2  |    |
 | 7915                                                              |    |    |    |
