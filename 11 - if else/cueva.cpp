@@ -1,48 +1,47 @@
 #include <iostream>
 using namespace std;
 
-int o;
-int parImpar;
+// Declaración de variables globales
 
+int opcion;
+
+// 1. Declarar funciones
+void vereda();
 void cueva();
 
-void calle();
+void main() {
+	locale::global(locale("spanish"));
+	vereda(); // 3. Se mandan llamar
 
-int main(){
-    calle();
+	cout << "Fin del recorrido" << endl;
 
-    system("pause");
-
-    return 0;
+	system("pause");
 }
 
-void calle(){
-    system("cls");
+// 2. Definir funciones
+void vereda() {
+	cout << "Estás en la vereda." << endl;
 
-    cout << "Elige un nÃºmero del 0 al 5." << endl;
+	cout << "¿Quieres entrar a la cueva?" << endl;
 
-    cin >> o;
+	cout << "1. Sí \n2. No" << endl;
 
-    cout << "Elige 0. Par; 1. Impar" << endl;
+	cin >> opcion;
 
-    cin >> parImpar;
+	if (opcion == 1) {
+		cueva();
+	}
+}
+void cueva() {
+	cout << "Estás en la cueva." << endl;
 
-    int r = rand() % 6;
+	cout << "¿Quieres salir de la cueva?" << endl;
 
-    int suma = o + r;
-    
-    if (suma % 2 == parImpar){
-        cout << suma << " Ganaste" << endl;
-    } else{
-        cout << suma << " Perdiste" << endl;
-    }
+	cout << "1. Sí \n2. No" << endl;
 
-    cout << "1. Volver a jugar; 2. Salir";
+	cin >> opcion;
 
-    cin >> o;
-
-    if(o == 1){
-        calle();
-    }
-
+	if (opcion == 1) {
+		vereda();
+	}
 }

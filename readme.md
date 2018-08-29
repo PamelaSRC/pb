@@ -50,7 +50,7 @@ Repositorio para la clase de Programación básica impartida durante el semestre
 | [4187](https://github.com/AlbertoHV23/1814187)                       | 2  | 2  | 2  | 2  | 2  | 2  |
 | [6859](https://github.com/AldoIbarra/PBRepositorio1736859.git)       |    | 2  | 2  | 2  | 2  | 2  |
 | 7915                                                                 |    |    |    |    | 0  | 0  |
-| 2487                                                                 |    |    |    |    | 1  | 1  |
+| [2487](https://github.com/emilio33moreno/repositorio-de-Emilio)      | 0  | 2  | 2  | 2  | 1  | 1  |
 | [7860](https://github.com/Angel03paredes/Programacion-basica.git)    |    | 2  | 2  | 2  | 1  | 2  |
 | 2411                                                                 |    |    |    |    | -  | 1  |
 | [7906](https://github.com/luciasarahi/Tarea-2)                       | 2  | 2  | 2  | 2  | 1  | 2  |
