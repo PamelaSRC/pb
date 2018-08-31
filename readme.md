@@ -63,4 +63,4 @@ Los alumnos con asterisco marcan oyentes
 | [1551](https://github.com/VianeyHernandez/Tarea-3)                   | 2  | 2  | 2  | 2  | 2  | 1  | -  |
 | [2676](https://github.com/JLeonardoRM/Tareas-PB)                     | 2  | 2  | 2  | 2  | 0  | 0  | -  |
 | 7678                                                                 | 0  | 0  | 0  | 0  | 0  | 0  | -  |
-| [8454*](https://github.com/JairBunny/Luis-Jair)                     | 0  | 0  | 0  | 0  | 0  | 2  | 2  |
+| [8454*](https://github.com/JairBunny/Luis-Jair)                      | 0  | 0  | 0  | 0  | 0  | 2  | 2  |
