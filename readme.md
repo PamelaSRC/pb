@@ -47,14 +47,14 @@ Los alumnos con asterisco marcan oyentes
 | [3204](https://github.com/DanielGarciaMazatan/Repositorio)           | 2  | 2  | 2  | 2  | 1  | 2  | 2  | 2  | 2  |     |
 | [5354](https://github.com/ValeriaGzan/PrograBasic)                   | 2  | 2  | 2  | 2  | 2  | 1  | 2  |    | 2  |     |
 | [7840](https://github.com/Rome1317/Programacion-Basica)              | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |     |
-| [5104](https://github.com/elangeladri28/Pb-1805104)                  | 2  | 2  | 2  | 2  | 1  | 2  | 2  | 2  | 2  |     |
+| [5104](https://github.com/elangeladri28/Pb-1805104)                  | 2  | 2  | 2  | 2  | 1  | 2  | 2  | 2  | 2  |  2  |
 | [4187](https://github.com/AlbertoHV23/1814187)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |     |
 | [6859](https://github.com/AldoIbarra/PBRepositorio1736859.git)       | 0  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |     |
 | [2487](https://github.com/emilio33moreno/repositorio-de-Emilio)      | 0  | 2  | 2  | 2  | 1  | 1  | -  |    | 2  |     |
 | [7860](https://github.com/Angel03paredes/Programacion-basica.git)    | 0  | 2  | 2  | 2  | 1  | 2  | 2  | 2  | 2  |     |
 | [2411](https://github.com/PamelaSRC/Progra)                          | 0  | 2  | 2  | 2  | 0  | 1  | 2  |    | 2  |     |
 | [7906](https://github.com/luciasarahi/Tarea-2)                       | 2  | 2  | 2  | 2  | 1  | 2  | 2  | 2  | 2  |     |
-| [5868](https://github.com/AlnOsvaldo/PB-1795868)                     | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |     |
+| [5868](https://github.com/AlnOsvaldo/PB-1795868)                     | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
 | [1876](https://github.com/LupeVillarreal/PB-Repositorio-1876-)       | 0  | 0  | 0  | 0  | 1  | 2  | -  | 2  | 2  |     |
 | [3631](https://github.com/Diego1803631/Tareas)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |     |
 | [5142](https://github.com/Raycerk/Tareas)                            | 0  | 2  | 2  | 2  | 2  | 2  | 2  |    | 2  |     |
