@@ -1,9 +1,9 @@
 #include <iostream>
 #include <time.h>
+#include <string>
 using namespace std;
 
 int main(){
-
     bool minas[9][9] = {}; // Inicia en 0
 
     cout << "  ";
