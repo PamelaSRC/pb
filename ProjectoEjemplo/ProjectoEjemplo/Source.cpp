@@ -26,6 +26,10 @@ void buscarNombre();
 
 void modificar();
 
+void mostrarMinus();
+
+void mostrarMayus();
+
 int main() {
 	locale::global(locale("spanish"));
 	c = 0; // Para inicializar el contador
@@ -59,7 +63,7 @@ void menu() {
 	cout << "Menú principal" << endl << endl;
 	cout << "Qué quieres hacer" << endl;
 	cout << "1. Registrar \n2. Mostrar todos \n3. Buscar \n4. Buscar nombre";
-	cout << "\n5. Modificar alumno" << endl;
+	cout << "\n5. Modificar alumno \n6. Mostrar minus" << endl;
 	cin >> o;
 
 	switch (o)
@@ -81,6 +85,10 @@ void menu() {
 		break;
 	case 5:
 		modificar();
+		// cin.ignore();
+		break;
+	case 6:
+		mostrarMinus();
 		// cin.ignore();
 		break;
 	default:
@@ -236,6 +244,49 @@ void modificar() {
 			break;
 		}
 		i++;
+	}
+
+	system("pause > nul");
+	menu();
+}
+
+void mostrarMinus() {
+	system("cls");
+	cout << "Todos los registros" << endl;
+	for (int i = 0; i < c; i++) {
+		string nombreTemp = p[i].nombre; // Crear un temporal para nombre
+
+		// size regresa el tamaño en bytes de una variable
+		// que corresponde con su cantidad de caracteres
+		int longitud = nombreTemp.size();
+		for (int j = 0; j < longitud; j++) {
+			if (j == longitud - 1) {
+				nombreTemp[j] = toupper(nombreTemp[j]);
+			}
+			else {
+				nombreTemp[j] = tolower(nombreTemp[j]);
+			}
+		}
+		
+		char apellidoTemp[100]; // Crear un temporal para apellido
+		// Copia en apellidoTempo el contenido de p[i].apellido
+		strcpy_s(apellidoTemp, p[i].apellido);
+
+		for (int j = 0; j < 100; j++) {
+			// Por cada caracter de de apellidoTemp
+			// Se convierte a minúscula y se guarda
+			if (j == 0)
+			{
+				apellidoTemp[j] = toupper(apellidoTemp[j]);
+			}
+			else {
+				apellidoTemp[j] = tolower(apellidoTemp[j]);
+			}
+		}
+		
+		cout << "Matrícula: " << p[i].id << endl; 
+		cout << "Nombre y apellido: " << nombreTemp << " " << apellidoTemp << endl;
+		cout << "Altura" << ": " << p[i].altura << endl << endl;
 	}
 
 	system("pause > nul");
